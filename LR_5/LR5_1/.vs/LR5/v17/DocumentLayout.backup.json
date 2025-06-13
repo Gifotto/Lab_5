@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\\u041B\u04405\\LR5_1\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\LR_5\\LR5_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C118CB-E8FF-4592-B8D0-1A1AB1102FA4}|LR5.vcxproj|C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\\u041B\u04405\\LR5_1\\LR5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42C118CB-E8FF-4592-B8D0-1A1AB1102FA4}|LR5.vcxproj|C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\LR_5\\LR5_1\\LR5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42C118CB-E8FF-4592-B8D0-1A1AB1102FA4}|LR5.vcxproj|solutionrelative:LR5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LR5.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\\u041B\u04405\\LR5_1\\LR5.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\LR_5\\LR5_1\\LR5.cpp",
               "RelativeDocumentMoniker": "LR5.cpp",
-              "ToolTip": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\\u041B\u04405\\LR5_1\\LR5.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\\u043F\u0440\u043E\u0433\u0430 \u0441\u0435\u043C 2\\LR_5\\LR5_1\\LR5.cpp",
               "RelativeToolTip": "LR5.cpp",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAAAJ8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-22T09:01:53.197Z",
               "EditorCaption": ""
